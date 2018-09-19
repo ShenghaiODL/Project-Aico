@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Hutrit","characterIndex":0,"characterName":"Hutrit","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Hutrit","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hutrit Copperfoot","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Thorin Frostbeard","characterIndex":1,"characterName":"Thorin Frostbeard","classId":4,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Thorin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thorin Frostbeard","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Serenity","characterIndex":0,"characterName":"Serenity Walk","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Serenity","traits":[],"initialLevel":1,"maxLevel":99,"name":"Serenity Baregorn","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Enemy1","characterIndex":1,"characterName":"kelkarr walk","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kelkarr","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kelkarr Astret","nickname":"The Legendary Necromancer","note":"","profile":""}
+]
